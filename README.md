@@ -10,13 +10,13 @@
 
 <h4>Now</h4>
 
-- 👯 Opensource contributor: [Sandiego](https://github.com/sandiego-rh), [LinkedIn API](https://github.com/tomquirk/linkedin-api)
-- 🔥 Interested in the intersection of product and data science
-- 📆 Looking for contributing to python based open source projects
+- 👯 **Opensource** contributor: [Sandiego](https://github.com/sandiego-rh), [LinkedIn API](https://github.com/tomquirk/linkedin-api)
+- 🔥 Interested in the intersection of **product** and **data science**
+- 📆 Looking for contributing to python based opensource projects
 
 <h4>Bio</h4>
 
-- 🔭 I’m currently working at Red Hat
+- 🔭 I’m currently working at **Red Hat**
 - 🌱 I’m currently learning **Docker, Kubernetes, RedShift, Hive**
 - 🤝 I’m studying in Data Science at **University of Michigan**
 - 📄 Checkout my [resume](https://drive.google.com/file/d/1-Kh2DxLNYfRuSsAa78AMt3SBUSiFOnPY/view?usp=sharing)
